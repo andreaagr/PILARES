@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BirthdayCard</string>
+    <string name="mensaje_1">Presiona el regalo para ver su contenido</string>
+    <string name="mensaje_2">No te preocupes,\n si las velas son muchas...</string>
+    <string name="mensaje_3">Podemos llamar a los bomberos para ayudarte</string>
+</resources>
